@@ -18,6 +18,9 @@
 		<license>GPLv2</license>
 		<platform>@PLATFORM@</platform>
 		<source>https://github.com/kodi-game/game.libretro.a5200</source>
+		<assets>
+			<icon>resources/icon.png</icon>
+		</assets>
 		<summary lang="en_GB">Atari - 5200 (a5200)</summary>
 		<description lang="en_GB">a5200 is a port of the Atari 5200 emulator to libretro.[CR][CR]Originally developed for the GCW Zero, this core runs fast on low-powered hardware.</description>
 	</extension>

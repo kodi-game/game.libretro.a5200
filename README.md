@@ -15,7 +15,7 @@ GPLv2
 
 ### Icon
 
-Help make me an icon!
+![Atari - 5200 (a5200) icon](game.libretro.a5200/resources/icon.png)
 
 ### Fanart
 
