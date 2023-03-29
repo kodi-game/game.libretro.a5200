@@ -21,7 +21,10 @@
 		<assets>
 			<icon>resources/icon.png</icon>
 		</assets>
+		<summary lang="da_DK">Atari - 5200 (a5200)</summary>
 		<summary lang="en_GB">Atari - 5200 (a5200)</summary>
+		<summary lang="es_ES">Atari - 5200 (a5200)</summary>
 		<description lang="en_GB">a5200 is a port of the Atari 5200 emulator to libretro.[CR][CR]Originally developed for the GCW Zero, this core runs fast on low-powered hardware.</description>
+		<description lang="es_ES">a5200 es un port del emulador de Atari 5200 de libretro.[CR][CR]Desarrollado originalmente para el GCW Zero, este core es más rápido en dispositivos de baja potencia.</description>
 	</extension>
 </addon>
