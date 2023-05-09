@@ -24,7 +24,9 @@
 		<summary lang="da_DK">Atari - 5200 (a5200)</summary>
 		<summary lang="en_GB">Atari - 5200 (a5200)</summary>
 		<summary lang="es_ES">Atari - 5200 (a5200)</summary>
+		<summary lang="zh_CN">雅达利 - 5200（a5200）</summary>
 		<description lang="en_GB">a5200 is a port of the Atari 5200 emulator to libretro.[CR][CR]Originally developed for the GCW Zero, this core runs fast on low-powered hardware.</description>
 		<description lang="es_ES">a5200 es un port del emulador de Atari 5200 de libretro.[CR][CR]Desarrollado originalmente para el GCW Zero, este core es más rápido en dispositivos de baja potencia.</description>
+		<description lang="zh_CN">a5200 是雅达利 5200 模拟器到 libretro 的移植。[CR][CR]最初是为 GCW Zero 开发的，该核心在低功耗硬件上运行速度快。</description>
 	</extension>
 </addon>
