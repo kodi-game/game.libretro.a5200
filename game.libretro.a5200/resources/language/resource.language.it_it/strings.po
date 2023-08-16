@@ -38,33 +38,77 @@ msgid "Interframe Blending"
 msgstr "Fusione tra frame"
 
 msgctxt "#30003"
-msgid "Audio Filter"
-msgstr "Filtro audio"
+msgid "Hi-Res Artifacting Mode"
+msgstr ""
 
 msgctxt "#30004"
-msgid "Audio Filter Level"
-msgstr "Livello filtro audio"
+msgid "High Fidelity POKEY (Restart)"
+msgstr ""
 
 msgctxt "#30005"
-msgid "Controller Hacks"
-msgstr "Trucchi controller"
+msgid "Audio Filter"
+msgstr ""
 
 msgctxt "#30006"
-msgid "Digital Joystick Sensitivity"
-msgstr "Sensibilità joystick digitale"
+msgid "Audio Filter Level"
+msgstr ""
 
 msgctxt "#30007"
-msgid "Analog Joystick Sensitivity"
-msgstr "Sensibilità joystick analogico"
+msgid "Controller Hacks"
+msgstr ""
 
 msgctxt "#30008"
-msgid "Analog Joystick Response"
-msgstr "Risposta joystick analogico"
+msgid "Pause acts as Reset"
+msgstr ""
 
 msgctxt "#30009"
-msgid "Analog Joystick Deadzone"
-msgstr "Zona morta joystick analogico"
+msgid "Digital Joystick Sensitivity"
+msgstr ""
 
 msgctxt "#30010"
+msgid "Analog Joystick Sensitivity"
+msgstr ""
+
+msgctxt "#30011"
+msgid "Analog Joystick Response"
+msgstr ""
+
+msgctxt "#30012"
+msgid "Analog Joystick Deadzone"
+msgstr ""
+
+msgctxt "#30013"
 msgid "Analog Device"
-msgstr "Dispositivo analogico"
+msgstr ""
+
+#~ msgctxt "#30003"
+#~ msgid "Audio Filter"
+#~ msgstr "Filtro audio"
+
+#~ msgctxt "#30004"
+#~ msgid "Audio Filter Level"
+#~ msgstr "Livello filtro audio"
+
+#~ msgctxt "#30005"
+#~ msgid "Controller Hacks"
+#~ msgstr "Trucchi controller"
+
+#~ msgctxt "#30006"
+#~ msgid "Digital Joystick Sensitivity"
+#~ msgstr "Sensibilità joystick digitale"
+
+#~ msgctxt "#30007"
+#~ msgid "Analog Joystick Sensitivity"
+#~ msgstr "Sensibilità joystick analogico"
+
+#~ msgctxt "#30008"
+#~ msgid "Analog Joystick Response"
+#~ msgstr "Risposta joystick analogico"
+
+#~ msgctxt "#30009"
+#~ msgid "Analog Joystick Deadzone"
+#~ msgstr "Zona morta joystick analogico"
+
+#~ msgctxt "#30010"
+#~ msgid "Analog Device"
+#~ msgstr "Dispositivo analogico"

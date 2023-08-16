@@ -38,33 +38,73 @@ msgid "Interframe Blending"
 msgstr "Interframe-blanding"
 
 msgctxt "#30003"
-msgid "Audio Filter"
-msgstr "Lydfilter"
+msgid "Hi-Res Artifacting Mode"
+msgstr ""
 
 msgctxt "#30004"
-msgid "Audio Filter Level"
-msgstr "Niveau for lydfilter"
+msgid "High Fidelity POKEY (Restart)"
+msgstr ""
 
 msgctxt "#30005"
-msgid "Controller Hacks"
-msgstr "Controller hacks"
+msgid "Audio Filter"
+msgstr ""
 
 msgctxt "#30006"
-msgid "Digital Joystick Sensitivity"
-msgstr "Følsomhed af digital joystick"
+msgid "Audio Filter Level"
+msgstr ""
 
 msgctxt "#30007"
-msgid "Analog Joystick Sensitivity"
-msgstr "Følsomhed af analog joystick"
+msgid "Controller Hacks"
+msgstr ""
 
 msgctxt "#30008"
-msgid "Analog Joystick Response"
-msgstr "Svar for analog joystick"
+msgid "Pause acts as Reset"
+msgstr ""
 
 msgctxt "#30009"
-msgid "Analog Joystick Deadzone"
-msgstr "Dødzone for analog joystick"
+msgid "Digital Joystick Sensitivity"
+msgstr ""
 
 msgctxt "#30010"
+msgid "Analog Joystick Sensitivity"
+msgstr ""
+
+msgctxt "#30011"
+msgid "Analog Joystick Response"
+msgstr ""
+
+msgctxt "#30012"
+msgid "Analog Joystick Deadzone"
+msgstr ""
+
+msgctxt "#30013"
 msgid "Analog Device"
 msgstr ""
+
+#~ msgctxt "#30003"
+#~ msgid "Audio Filter"
+#~ msgstr "Lydfilter"
+
+#~ msgctxt "#30004"
+#~ msgid "Audio Filter Level"
+#~ msgstr "Niveau for lydfilter"
+
+#~ msgctxt "#30005"
+#~ msgid "Controller Hacks"
+#~ msgstr "Controller hacks"
+
+#~ msgctxt "#30006"
+#~ msgid "Digital Joystick Sensitivity"
+#~ msgstr "Følsomhed af digital joystick"
+
+#~ msgctxt "#30007"
+#~ msgid "Analog Joystick Sensitivity"
+#~ msgstr "Følsomhed af analog joystick"
+
+#~ msgctxt "#30008"
+#~ msgid "Analog Joystick Response"
+#~ msgstr "Svar for analog joystick"
+
+#~ msgctxt "#30009"
+#~ msgid "Analog Joystick Deadzone"
+#~ msgstr "Dødzone for analog joystick"

@@ -38,33 +38,77 @@ msgid "Interframe Blending"
 msgstr "Mezcla de Fotogramas"
 
 msgctxt "#30003"
-msgid "Audio Filter"
-msgstr "Filtro de Audio"
+msgid "Hi-Res Artifacting Mode"
+msgstr ""
 
 msgctxt "#30004"
-msgid "Audio Filter Level"
-msgstr "Nivel de Filtro de Audio"
+msgid "High Fidelity POKEY (Restart)"
+msgstr ""
 
 msgctxt "#30005"
-msgid "Controller Hacks"
-msgstr "Trucos de Controlador"
+msgid "Audio Filter"
+msgstr ""
 
 msgctxt "#30006"
-msgid "Digital Joystick Sensitivity"
-msgstr "Sensibilidad del Joystick Digital"
+msgid "Audio Filter Level"
+msgstr ""
 
 msgctxt "#30007"
-msgid "Analog Joystick Sensitivity"
-msgstr "Sensibilidad del Joystick Analógico"
+msgid "Controller Hacks"
+msgstr ""
 
 msgctxt "#30008"
-msgid "Analog Joystick Response"
-msgstr "Respuesta del Joystick Analógico"
+msgid "Pause acts as Reset"
+msgstr ""
 
 msgctxt "#30009"
-msgid "Analog Joystick Deadzone"
-msgstr "Zona Muerta del Joystick Analógico"
+msgid "Digital Joystick Sensitivity"
+msgstr ""
 
 msgctxt "#30010"
+msgid "Analog Joystick Sensitivity"
+msgstr ""
+
+msgctxt "#30011"
+msgid "Analog Joystick Response"
+msgstr ""
+
+msgctxt "#30012"
+msgid "Analog Joystick Deadzone"
+msgstr ""
+
+msgctxt "#30013"
 msgid "Analog Device"
-msgstr "Dispositivo Analógico"
+msgstr ""
+
+#~ msgctxt "#30003"
+#~ msgid "Audio Filter"
+#~ msgstr "Filtro de Audio"
+
+#~ msgctxt "#30004"
+#~ msgid "Audio Filter Level"
+#~ msgstr "Nivel de Filtro de Audio"
+
+#~ msgctxt "#30005"
+#~ msgid "Controller Hacks"
+#~ msgstr "Trucos de Controlador"
+
+#~ msgctxt "#30006"
+#~ msgid "Digital Joystick Sensitivity"
+#~ msgstr "Sensibilidad del Joystick Digital"
+
+#~ msgctxt "#30007"
+#~ msgid "Analog Joystick Sensitivity"
+#~ msgstr "Sensibilidad del Joystick Analógico"
+
+#~ msgctxt "#30008"
+#~ msgid "Analog Joystick Response"
+#~ msgstr "Respuesta del Joystick Analógico"
+
+#~ msgctxt "#30009"
+#~ msgid "Analog Joystick Deadzone"
+#~ msgstr "Zona Muerta del Joystick Analógico"
+
+#~ msgctxt "#30010"
+#~ msgid "Analog Device"
+#~ msgstr "Dispositivo Analógico"
