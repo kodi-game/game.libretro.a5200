@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.a5200"
 		name="Atari - 5200 (a5200)"
-		version="2.0.2.11"
+		version="2.0.2.12"
 		provider-name="Petr Stehlik, zx81, Alekmaul, wavemotion-dave">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
