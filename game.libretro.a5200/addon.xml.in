@@ -5,6 +5,7 @@
 		provider-name="Petr Stehlik, zx81, Alekmaul, wavemotion-dave">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
+		<import addon="game.controller.atari.5200" version="1.0.32"/>
 	</requires>
 	<extension point="kodi.gameclient"
 			library_@PLATFORM@="@LIBRARY_FILENAME@">
