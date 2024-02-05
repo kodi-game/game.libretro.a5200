@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.a5200"
 		name="Atari - 5200 (a5200)"
-		version="2.0.2.15"
+		version="2.0.2.16"
 		provider-name="Petr Stehlik, zx81, Alekmaul, wavemotion-dave">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
+		<import addon="game.controller.atari.5200" version="1.0.32"/>
 	</requires>
 	<extension point="kodi.gameclient"
 			library_@PLATFORM@="@LIBRARY_FILENAME@">
