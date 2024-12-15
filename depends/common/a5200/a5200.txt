@@ -1,1 +1,1 @@
-a5200 https://github.com/libretro/a5200/archive/0942c88d64cad6853b539f51b39060a9de0cbcab.tar.gz
+a5200 https://github.com/libretro/a5200/archive/526404072821bb2021fab16f8c5dbbca300512c8.tar.gz
