@@ -25,10 +25,6 @@ msgctxt "Addon Description"
 msgid "a5200 is a port of the Atari 5200 emulator to libretro.[CR][CR]Originally developed for the GCW Zero, this core runs fast on low-powered hardware."
 msgstr ""
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr "Paramètres"
-
 msgctxt "#30001"
 msgid "BIOS (Restart)"
 msgstr ""
@@ -80,3 +76,7 @@ msgstr ""
 msgctxt "#30013"
 msgid "Analog Device"
 msgstr ""
+
+#~ msgctxt "#30000"
+#~ msgid "Settings"
+#~ msgstr "Paramètres"

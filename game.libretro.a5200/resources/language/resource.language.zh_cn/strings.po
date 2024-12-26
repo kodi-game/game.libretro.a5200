@@ -25,10 +25,6 @@ msgctxt "Addon Description"
 msgid "a5200 is a port of the Atari 5200 emulator to libretro.[CR][CR]Originally developed for the GCW Zero, this core runs fast on low-powered hardware."
 msgstr "a5200 是雅达利 5200 模拟器到 libretro 的移植。[CR][CR]最初是为 GCW Zero 开发的，该核心在低功耗硬件上运行速度快。"
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr "设置"
-
 msgctxt "#30001"
 msgid "BIOS (Restart)"
 msgstr "BIOS（重新启动）"
@@ -80,6 +76,10 @@ msgstr ""
 msgctxt "#30013"
 msgid "Analog Device"
 msgstr ""
+
+#~ msgctxt "#30000"
+#~ msgid "Settings"
+#~ msgstr "设置"
 
 #~ msgctxt "#30003"
 #~ msgid "Audio Filter"
