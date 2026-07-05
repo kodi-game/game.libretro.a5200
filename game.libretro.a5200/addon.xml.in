@@ -23,6 +23,7 @@
 		<assets>
 			<icon>resources/icon.png</icon>
 		</assets>
+		<summary lang="cs_CZ">Atari - 5200 (a5200)</summary>
 		<summary lang="da_DK">Atari - 5200 (a5200)</summary>
 		<summary lang="en_GB">Atari - 5200 (a5200)</summary>
 		<summary lang="es_ES">Atari - 5200 (a5200)</summary>
@@ -31,6 +32,7 @@
 		<summary lang="ru_RU">Atari — 5200 (a5200)</summary>
 		<summary lang="sv_SE">Atari - 5200 (a5200)</summary>
 		<summary lang="zh_CN">雅达利 - 5200（a5200）</summary>
+		<description lang="cs_CZ">a5200 je port emulátoru Atari 5200 pro libretro.[CR][CR]Toto jádro, původně vyvinuté pro GCW Zero, běží rychle i na méně výkonném hardwaru.</description>
 		<description lang="en_GB">a5200 is a port of the Atari 5200 emulator to libretro.[CR][CR]Originally developed for the GCW Zero, this core runs fast on low-powered hardware.</description>
 		<description lang="es_ES">a5200 es un port del emulador de Atari 5200 de libretro.[CR][CR]Desarrollado originalmente para el GCW Zero, este core es más rápido en dispositivos de baja potencia.</description>
 		<description lang="ga">Is port den aithriseoir Atari 5200 chuig libretro é a5200.[CR][CR]Forbraíodh an croí seo ar dtús don GCW Zero, agus ritheann sé go tapa ar chrua-earraí ísealchumhachta.</description>
