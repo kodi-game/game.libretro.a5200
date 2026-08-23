@@ -19,7 +19,7 @@
 					<default>disabled</default>
 					<constraints>
 						<options>
-							<option>disabled</option>
+							<option label="13106">disabled</option>
 							<option label="30018">mix</option>
 							<option label="30019">ghost_65</option>
 							<option label="30020">ghost_75</option>
@@ -35,10 +35,10 @@
 					<constraints>
 						<options>
 							<option label="30024">none</option>
-							<option>blue/brown 1</option>
-							<option>blue/brown 2</option>
-							<option>GTIA</option>
-							<option>CTIA</option>
+							<option label="30091">blue/brown 1</option>
+							<option label="30092">blue/brown 2</option>
+							<option label="30093">GTIA</option>
+							<option label="30094">CTIA</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -52,8 +52,8 @@
 					<default>enabled</default>
 					<constraints>
 						<options>
-							<option>disabled</option>
-							<option>enabled</option>
+							<option label="13106">disabled</option>
+							<option label="305">enabled</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -63,8 +63,8 @@
 					<default>disabled</default>
 					<constraints>
 						<options>
-							<option>disabled</option>
-							<option>enabled</option>
+							<option label="13106">disabled</option>
+							<option label="305">enabled</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -106,7 +106,7 @@
 					<default>disabled</default>
 					<constraints>
 						<options>
-							<option>disabled</option>
+							<option label="13106">disabled</option>
 							<option label="30052">dual_stick</option>
 							<option label="30053">swap_ports</option>
 						</options>
