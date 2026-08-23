@@ -385,6 +385,22 @@ msgctxt "#30090"
 msgid "Mouse"
 msgstr ""
 
+msgctxt "#30091"
+msgid "blue/brown 1"
+msgstr ""
+
+msgctxt "#30092"
+msgid "blue/brown 2"
+msgstr ""
+
+msgctxt "#30093"
+msgid "GTIA"
+msgstr ""
+
+msgctxt "#30094"
+msgid "CTIA"
+msgstr ""
+
 #~ msgctxt "#30000"
 #~ msgid "Settings"
 #~ msgstr "Impostazioni"
