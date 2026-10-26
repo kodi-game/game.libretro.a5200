@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.a5200"
 		name="Atari - 5200 (a5200)"
-		version="2.0.2.27"
+		version="2.0.2.28"
 		provider-name="Petr Stehlik, zx81, Alekmaul, wavemotion-dave">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
@@ -15,6 +15,7 @@
 		<supports_standalone>false</supports_standalone>
 		<supports_disc_control>false</supports_disc_control>
 		<libretro_core>a5200_libretro</libretro_core>
+		<savestate_features>deterministic</savestate_features>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<license>GPLv2</license>
